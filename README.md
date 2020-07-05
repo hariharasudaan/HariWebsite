@@ -1,5 +1,5 @@
 # Introduction
 
-#This is my personal website
+#This is my personal portfolio
 
 https://hariharasudaan.github.io/HariWebsite/
